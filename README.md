@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johan Atmaja
 - 👀 I’m interested in data analysis and data exploratory
 - 🌱 I’m currently learning python, R, and machine learning
-- 💞️ I’m looking to collaborate on more data analysis and data science problem
+- 💞️ I’m looking to collaborate on more data analysis and data science problem that occur in real life
 - 📫 How to reach me jhnatmaja@gmail.com
 
 <!---
